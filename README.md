@@ -1,2 +1,3 @@
 # mooc_python
-Material my mooc on Python at Télécom ParisTech
+
+Material for my MOOC on Python done at Télécom ParisTech (in French)

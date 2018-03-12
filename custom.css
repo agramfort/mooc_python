@@ -1,0 +1,16 @@
+.reveal {
+    font-size: 220%;
+}
+
+.reveal .slides {
+    margin: 0px;
+    border: 0px;
+    top:340px;
+    /*  left:440px;*/
+    width:100%;
+    right:0px;
+}
+
+.o {
+    font-size: 220%;
+}
